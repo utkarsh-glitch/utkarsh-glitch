@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @utkarsh-glitch
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning Computer science and web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Foront-end Development 
 
 <!---
 utkarsh-glitch/utkarsh-glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
